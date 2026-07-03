@@ -1,4 +1,4 @@
-# 
+# Professional bitmex trading bot plugins for Mac OS | Ultimate bitmex trading bot plugins for PC Windows. Featuring centralized exchange api and mean reversion strategy — optimized for maximum performance.
 
 
 
